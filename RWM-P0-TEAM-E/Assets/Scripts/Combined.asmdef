@@ -1,0 +1,16 @@
+{
+    "name": "CombinedFiltor",
+    "references": [
+        "Modulo3",
+        "XOR",
+        "RunningTotal"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
